@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/parentdir/a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/e" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/g" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/h" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/i" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parentdir/k" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b49ba664-4f73-4ca9-8b15-0b67e49367a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/parentdir/a" />
+  </component>
+  <component name="ProjectId" id="1jAKxcaJ7tSGzxaYVSQpmjjY75f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="natalie-create-repos-in-org" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49ba664-4f73-4ca9-8b15-0b67e49367a2" name="Default Changelist" comment="" />
+      <created>1603241703617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603241703617</updated>
+      <workItem from="1603241708702" duration="2676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="459" key="GridCell.Tab.0.bottom" timestamp="1603244587014">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1107" height="312" key="GridCell.Tab.0.bottom/0.23.1920.1126@0.23.1920.1126" timestamp="1603242956066" />
+    <state width="1238" height="459" key="GridCell.Tab.0.bottom/0.23.2560.1417/880.1463.1680.1027/2560.23.1440.2486@0.23.2560.1417" timestamp="1603244587014" />
+    <state width="2518" height="393" key="GridCell.Tab.0.bottom/0.23.2560.1417/880.1463.1680.976/2560.23.1440.2537@0.23.2560.1417" timestamp="1603243926736" />
+    <state width="1238" height="459" key="GridCell.Tab.0.center" timestamp="1603244587013">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1107" height="312" key="GridCell.Tab.0.center/0.23.1920.1126@0.23.1920.1126" timestamp="1603242956065" />
+    <state width="1238" height="459" key="GridCell.Tab.0.center/0.23.2560.1417/880.1463.1680.1027/2560.23.1440.2486@0.23.2560.1417" timestamp="1603244587013" />
+    <state width="2518" height="393" key="GridCell.Tab.0.center/0.23.2560.1417/880.1463.1680.976/2560.23.1440.2537@0.23.2560.1417" timestamp="1603243926735" />
+    <state width="1238" height="459" key="GridCell.Tab.0.left" timestamp="1603244587012">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1107" height="312" key="GridCell.Tab.0.left/0.23.1920.1126@0.23.1920.1126" timestamp="1603242956065" />
+    <state width="1238" height="459" key="GridCell.Tab.0.left/0.23.2560.1417/880.1463.1680.1027/2560.23.1440.2486@0.23.2560.1417" timestamp="1603244587012" />
+    <state width="2518" height="393" key="GridCell.Tab.0.left/0.23.2560.1417/880.1463.1680.976/2560.23.1440.2537@0.23.2560.1417" timestamp="1603243926735" />
+    <state width="1238" height="459" key="GridCell.Tab.0.right" timestamp="1603244587013">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1107" height="312" key="GridCell.Tab.0.right/0.23.1920.1126@0.23.1920.1126" timestamp="1603242956066" />
+    <state width="1238" height="459" key="GridCell.Tab.0.right/0.23.2560.1417/880.1463.1680.1027/2560.23.1440.2486@0.23.2560.1417" timestamp="1603244587013" />
+    <state width="2518" height="393" key="GridCell.Tab.0.right/0.23.2560.1417/880.1463.1680.976/2560.23.1440.2537@0.23.2560.1417" timestamp="1603243926736" />
+    <state x="637" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1603241710749">
+      <screen x="0" y="23" width="1920" height="1126" />
+    </state>
+    <state x="637" y="418" key="com.intellij.ide.util.TipDialog/0.23.1920.1126@0.23.1920.1126" timestamp="1603241710749" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/natalie_create_repos_in_org$main.coverage" NAME="main Coverage Results" MODIFIED="1603244347259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
