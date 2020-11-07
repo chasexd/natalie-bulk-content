@@ -17,4 +17,4 @@ steps:
 - name: greeting
   image: alpine
   commands:
-  - echo bonjour monde
+  - echo bonjour monded
