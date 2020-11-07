@@ -1,0 +1,20 @@
+kind: pipeline
+type: docker
+name: en
+
+steps:
+- name: greeting
+  image: alpine
+  commands:
+  - echo hello world
+
+---
+kind: pipeline
+type: docker
+name: fr
+
+steps:
+- name: greeting
+  image: alpine
+  commands:
+  - echo bonjour monde
