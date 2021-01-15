@@ -1,3 +1,3 @@
 # natalie-bulk-content
 
-[![Build Status](http://apvrd55809/api/badges/ashish/log-viewer-repo-declarative/status.svg)](http://apvrd55809/ashish/log-viewer-repo-declarative)
+[![Build Status](https://cloud.drone.io/api/badges/chasexd/natalie-bulk-content/status.svg)](https://cloud.drone.io/chasexd/natalie-bulk-content)
